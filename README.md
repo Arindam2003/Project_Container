@@ -5,7 +5,11 @@ This Repo Contains Basic to FullStack Project using Django
 
 <details>
     <summary>project_1</summary>
+
 - Textual Elegance - HTML Formating
+- [Project_1 Assignment](./project_1/Images/Project-1.png)
+- [Project_1 Answer](./project_1/)
+
 </details>
 
 </div>
