@@ -1,5 +1,5 @@
 # project_26
-This Repo Contains Basic to FullStack Project using Django
+This Repo Contains Basic to FullStack Project
 
 # ADD ANY WEB DEVELOPMENT MINI PROJECT !
 
