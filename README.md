@@ -3,6 +3,11 @@ This Repo Contains Basic to FullStack Project using Django
 
 # ADD ANY WEB DEVELOPMENT MINI PROJECT !
 
+<details>
+    <summary>project_1</summary>
+- Textual Elegance - HTML Formating
+</details>
+
 </div>
 <br>
 
