@@ -31,5 +31,14 @@ This Repo Contains Basic to FullStack Project
 
 </details>
 
+<details>
+    <summary>project_6</summary>
+
+- Personal Portfolio Website - HTML CSS
+- [Project_6 Assignment](./project_6/Project-6.png)
+- [Project_6 Answer](./project_6/)
+
+</details>
+
 </div>
 <br>
