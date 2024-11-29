@@ -5,9 +5,9 @@ This Repo Contains Basic to FullStack Project. ~Arindam
 <div>
 
 <details>
-    <summary>project_1</summary>
+    <summary>Project_1</summary>
 
-- Textual Elegance - HTML Formating
+- [Textual Elegance - HTML Formating](./Textual_Elegance-HTML/)
 
 </details>
 
