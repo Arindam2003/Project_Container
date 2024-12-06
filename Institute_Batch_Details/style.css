@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(255, 240, 196);
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+h1{
+    color: rgba(0, 0, 255, 0.816);
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    text-align: center;
+    font-weight: bolder;
+}
+.batch{
+    /* background-color: rgb(59, 59, 202); */
+    /* height: 20px; */
+    display: flex;
+    overflow-x: auto;
+}
+.c{
+    background-color: azure;
+    width: 300px;
+    border-radius: 10px;
+    height: 300px;
+    overflow: auto;
+}
+.batch h3{
+    padding-left: 10px;
+    margin: 0;
+    padding-bottom:5px ;
+}
+.batch h2{
+    margin-bottom: 0;
+    text-align: center;
+}
+.batch p{
+    padding-top: 0px;
+    padding-left: 10px;
+}
+.syllabus{
+    padding-bottom: 3px;
+}
+.batch{
+    display: flex;
+}
+.cpp{
+    background-color: beige;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 300px;
+    overflow: auto;
+}
+.python{
+    background-color: rgb(149, 242, 130);
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 300px;
+    overflow: auto;
+}
+.java{
+    background-color: rgb(157, 241, 231);
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 300px;
+    overflow: auto;
+}
+.django{
+    background-color: rgb(228, 228, 68);
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 300px;
+    overflow: auto;
+}
