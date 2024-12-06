@@ -74,3 +74,11 @@ h1{
     height: 300px;
     overflow: auto;
 }
+
+.table{
+    background-color: rgb(200, 91, 91);
+}
+
+.table h2{
+    text-align: center;
+}
