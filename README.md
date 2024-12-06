@@ -21,11 +21,11 @@ This Repo Contains Basic to FullStack Project. ~Arindam
 
 ### HTML CSS
 <details>
-    <summary>Project-3<summary>
+    <summary>Project_3</summary>
 
-- [Batch Details - Html,Css](./Institute_Batch_Details/)
-<details>
+- [Batch Details - HTML,Css](./Student_Marksheet-HTML/)
 
+</details>
 
 
 
