@@ -20,7 +20,11 @@ This Repo Contains Basic to FullStack Project. ~Arindam
 </details>
 
 ### HTML CSS
+<details>
+    <summary>Project-3<summary>
 
+- [Batch Details - Html,Css](./Institute_Batch_Details/)
+<details>
 
 
 
