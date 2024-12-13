@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+header{
+    background-color: rgb(242, 228, 201);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+header>img{
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    margin: 0px auto;
+} 
+section{
+    /* background-color: rgb(249, 216, 173); */
+    max-width: 60%;
+    padding: 20px;
+    margin: 20px auto;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
