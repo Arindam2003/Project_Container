@@ -1,0 +1,57 @@
+body{
+    background-color: aqua;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    /* background-color: red; */
+    border: 3px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    /* text-align: center; */
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.username input{
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 7px 10px;
+    margin-bottom: 15px;
+}
+.know{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.know label{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+button{
+    width: 100px;
+    padding: 9px 15px;
+    border-radius: 10px;
+    background-color: rgb(255, 30, 0);
+    color: aliceblue;
+    border: none;
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: rgb(242, 86, 86);
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
