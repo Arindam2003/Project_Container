@@ -35,7 +35,7 @@ form{
     align-items: center;
     gap: 10px;
 }
-button{
+.sub input{
     width: 100px;
     padding: 9px 15px;
     border-radius: 10px;
@@ -44,12 +44,12 @@ button{
     border: none;
     font-weight: bold;
 }
-button:hover{
+.sub input:hover{
     cursor: pointer;
     background-color: white;
     color: rgb(242, 86, 86);
 }
-.submit{
+.sub{
     display: flex;
     justify-content: center;
     align-items: center;
