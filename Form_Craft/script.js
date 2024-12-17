@@ -5,7 +5,9 @@ function validate()
     var fname=document.getElementById("fName");
     var sname=document.getElementById("sName");
     var flag=true;
-    if(fname.value.length==0)
+    if(fname.value.length==0 && sname.value.length==0)
+    {
         flag=false;
+    }
     return flag;
 }
