@@ -46,6 +46,15 @@ This Repo Contains Basic to FullStack Project. ~Arindam
 </details>
 
 
+### HTML CSS JS
+<details>
+    <summary>Project_1</summary>
+
+- [Dice Game - Motu Patlu](./dicee-game/)
+
+</details>
+
+
 
 
 
