@@ -50,9 +50,18 @@ This Repo Contains Basic to FullStack Project. ~Arindam
 <details>
     <summary>Project_1</summary>
 
-- [Dice Game - Motu Patlu](./dicee-game/)
+- [Dice Game - Motu Patlu](https://github.com/Arindam2003/dicee-game)
 
 </details>
+
+<details>
+    <summary>Project_2</summary>
+
+- [Drum Kit - Press Key to Listen](https://github.com/Arindam2003/Drum_Kit)s
+
+</details>
+
+
 
 
 
