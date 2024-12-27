@@ -57,7 +57,7 @@ This Repo Contains Basic to FullStack Project. ~Arindam
 <details>
     <summary>Project_2</summary>
 
-- [Drum Kit - Press Key to Listen](https://github.com/Arindam2003/Drum_Kit)s
+- [Drum Kit - Press Key to Listen](https://github.com/Arindam2003/Drum_Kit)
 
 </details>
 
